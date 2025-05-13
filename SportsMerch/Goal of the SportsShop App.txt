@@ -1,0 +1,12 @@
+The purpose of the SportsShop App
+
+
+Build shop filled with sports goods
+Server provides
+	- Quantity in Stock
+	- Item Pict
+	- Price
+Mobile: 
+ Easy to navigate UI
+   - Categories
+   - Search

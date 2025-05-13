@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0DF2AE8A-2A2A-4427-9232-CB7704AF58DD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E24C4B49-548B-4797-A708-78FA938CAB87"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "TenStop"
+            condition = "i % 10 == 0"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSProj18/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

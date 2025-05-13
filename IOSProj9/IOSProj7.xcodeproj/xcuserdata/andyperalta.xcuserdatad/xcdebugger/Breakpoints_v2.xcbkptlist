@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "567F29FD-12B2-4C64-8653-CEF0A9D5CA12"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE9D80AA-780B-4BF6-AC29-44A6215411B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSProj7/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9DC9B82-C674-4FB3-8692-7C2DBDAC0CDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSProj7/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8E4417A-547F-4753-99BB-60E7E6C2DE37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSProj7/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8854676-DB32-4232-8D4E-6772CFF69E33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSProj7/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3C0D343-1239-4622-8973-8C9CECA4999C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSProj7/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "F3C0D343-1239-4622-8973-8C9CECA4999C - 48b81ef04e1724ed"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProj7.ViewController.filteredPetitions.getter : Swift.Array&lt;IOSProj7.Petition&gt;"
+                  moduleName = "IOSProj7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyperalta/code/Swift/IOSProj9/IOSProj7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "F3C0D343-1239-4622-8973-8C9CECA4999C - 202f37d0af19dcd9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProj7.ViewController.filteredPetitions.setter : Swift.Array&lt;IOSProj7.Petition&gt;"
+                  moduleName = "IOSProj7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyperalta/code/Swift/IOSProj9/IOSProj7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "F3C0D343-1239-4622-8973-8C9CECA4999C - df251d36c93f8466"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProj7.ViewController.filteredPetitions.modify : Swift.Array&lt;IOSProj7.Petition&gt;"
+                  moduleName = "IOSProj7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyperalta/code/Swift/IOSProj9/IOSProj7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "F3C0D343-1239-4622-8973-8C9CECA4999C - 151c8a7d6c523469"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProj7.ViewController.filteredPetitions.modify : Swift.Array&lt;IOSProj7.Petition&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "IOSProj7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyperalta/code/Swift/IOSProj9/IOSProj7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "F3C0D343-1239-4622-8973-8C9CECA4999C - b920de3dc38dd7ca"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProj7.ViewController.init(style: __C.UITableViewStyle) -&gt; IOSProj7.ViewController"
+                  moduleName = "IOSProj7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyperalta/code/Swift/IOSProj9/IOSProj7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "F3C0D343-1239-4622-8973-8C9CECA4999C - 3e7ee7ec721b11ae"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProj7.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IOSProj7.ViewController"
+                  moduleName = "IOSProj7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyperalta/code/Swift/IOSProj9/IOSProj7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "F3C0D343-1239-4622-8973-8C9CECA4999C - eabb46e3edd57b14"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSProj7.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IOSProj7.ViewController&gt;"
+                  moduleName = "IOSProj7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyperalta/code/Swift/IOSProj9/IOSProj7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "190">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

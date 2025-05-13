@@ -1,0 +1,6 @@
+framework module Pods_SportsMerch {
+  umbrella header "Pods-SportsMerch-umbrella.h"
+
+  export *
+  module * { export * }
+}
